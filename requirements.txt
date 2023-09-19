@@ -1,0 +1,6 @@
+bs4-0.0.1
+fake_headers-1.0.2
+html5lib-1.1 six-1.16.0
+webencodings-0.5.1
+beautifulsoup4-4.12.2
+soupsieve-2.5
